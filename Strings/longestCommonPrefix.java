@@ -1,4 +1,4 @@
-package Strings;
+
 public class longestCommonPrefix{
      public static String  longestCommonPrefixs(String [] a ){
      String pre = a[0]  ;

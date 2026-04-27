@@ -1,4 +1,4 @@
-package Strings;
+
 
 // 1.validPalindromes using the  normal way  main thing is charAt 
 public class validPalindrome {
