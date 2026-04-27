@@ -13,5 +13,5 @@ public class longestCommonPrefix{
 public static void main(String args[]){
     String [] a  = {"dkkajfdlk","dkdfhifh","dklkdjfl"};
     System.out.println(longestCommonPrefixs(a));
-}
+   }
 }
