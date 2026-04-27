@@ -22,6 +22,7 @@ public class stringCompression {
     char[] arr = {'a','a','b','b','c','c','c'};
     System.out.println(stringCompressions(arr));
     String a = "Ismail";
+    System.out.println(a.charAt(0));
     
   }
 }
